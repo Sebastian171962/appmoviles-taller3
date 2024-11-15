@@ -1,0 +1,171 @@
+<resources>
+    <string name="app_name">Tarea</string>
+    <string name="task_progress">%1$d/%2$d tarea completada</string>
+    <string name="subtask_progress">%1$d/%2$d subtarea completada</string>
+    <string name="task_completed">Tarea completada</string>
+    <string name="add_task">Agregar tarea</string>
+    <string name="enter_title">Ingresar título</string>
+    <string name="important_task">Tarea importante</string>
+    <string name="edit_delete_task">Editar/Eliminar tarea</string>
+    <string name="create_task">Crear tarea</string>
+    <!-- Títulos de Preferencias -->
+    <string name="messages_header">Mensajes</string>
+    <string name="sync_header">Sincronización</string>
+
+    <!-- Preferencias de Mensajes -->
+    <string name="signature_title">Tu firma</string>
+    <string name="reply_title">Acción de respuesta predeterminada</string>
+
+    <!-- Preferencias de Sincronización -->
+    <string name="sync_title">Sincronizar correo periódicamente</string>
+    <string name="attachment_title">Descargar archivos adjuntos entrantes</string>
+    <string name="attachment_summary_on">Descargar automáticamente adjuntos de correos</string>
+    <string name="attachment_summary_off">Solo descargar adjuntos manualmente</string>
+    <string name="feedback_text">Envíanos tus comentarios en Instagram, Twitter o correo. Si la app falla, borra los datos desde la configuración</string>
+    <string name="rating_text">¿Te gusta esta app? Déjanos saber en Google Play cómo mejorarla</string>
+    <string name="more_app_text">Haz clic aquí para ver mis otras apps</string>
+    <string name="share_text">Comparte la app con amigos y familia</string>
+    <string name="developer">Desarrollador</string>
+    <string name="developer_name">Kaushal Vasava</string>
+    <string name="about">Acerca de</string>
+    <string name="current_version">Versión actual</string>
+    <string name="more">Más</string>
+    <string name="market_string" translatable="false">market://search?q=pub:Kaushal Vasava</string>
+    <string name="market_developer_string" translatable="false">http://play.google.com/store/apps/developer?id=Kaushal Vasava</string>
+    <string name="play_store_share" translatable="false">https://play.google.com/store/apps/details?id=</string>
+    <string name="contact_support">Soporte</string>
+    <string name="rating">Califica la app</string>
+    <string name="more_apps">Más apps</string>
+    <string name="share_app">Compartir Tareas</string>
+    <string name="delete_completed_task">Eliminar todas las tareas completadas</string>
+    <string name="hide_completed_task">Ocultar tareas completadas</string>
+    <string name="settings">Configuración</string>
+    <string name="sorting_option">Ordenar por</string>
+    <string name="sort_by_name">Ordenar por nombre</string>
+    <string name="sort_by_creation_date">Ordenar por fecha de creación</string>
+    <string name="search">Buscar</string>
+    <string name="select_all">Seleccionar todo</string>
+    <string name="delete">Eliminar</string>
+    <string name="add_date_time">Agregar fecha/hora</string>
+    <string name="reminder">Recordatorio</string>
+    <string name="add_task_by_speak">Agregar tarea por voz</string>
+    <string name="save">Guardar</string>
+    <string name="overdue">Atrasado</string>
+
+    <string name="mark_as_completed">Marcar como completado</string>
+    <string name="new_task">Nueva tarea</string>
+    <string name="create_new_sub_task">Haz clic para agregar subtarea</string>
+    <string name="create_new_task">Haz clic para agregar tarea</string>
+    <string name="task_deleted">Tarea eliminada</string>
+    <string name="undo">DESHACER</string>
+    <string name="cancel">Cancelar</string>
+    <string name="confirm_deletion">Confirmar eliminación</string>
+    <string name="delete_all_task">¿Deseas eliminar todas las tareas?</string>
+    <string name="notify_delete">Las tareas se eliminaron correctamente</string>
+    <string name="please_select_task">Selecciona una tarea</string>
+    <string name="search_task">Buscar tarea</string>
+    <string name="speech_not_support">Tu dispositivo no admite entrada de voz</string>
+    <string name="search_subtask">Buscar subtarea</string>
+    <string name="share">Compartir</string>
+    <string name="delete_task">¿Deseas eliminar?</string>
+    <string name="empty_task">Tarea vacía</string>
+    <string name="set_time">ESTABLECER HORA</string>
+    <string name="cancel_reminder">¡Recordatorio cancelado!</string>
+    <string name="progress_setting">Mostrar progreso de tareas individuales</string>
+    <string name="reminder_setting">Mostrar recordatorio de tareas individuales</string>
+    <string name="font_size">Tamaño de fuente</string>
+    <string name="enable">Habilitar</string>
+    <string name="disable">Deshabilitar</string>
+
+    <string name="subtask_of_task">Mostrar subtareas de tareas individuales</string>
+    <string name="grid_view">Vista de cuadrícula</string>
+    <string name="list_view">Vista de lista</string>
+    <string name="theme">Tema</string>
+    <string name="pm_format">pm</string>
+    <string name="language">Idioma</string>
+    <string name="copy_text">Copiar</string>
+    <string name="something_went_wrong">¡Algo salió mal!</string>
+    <string name="share_by">Compartir por</string>
+    <string name="text_copied">%s copiado</string>
+    <string name="write_suggestions">Escribe tus sugerencias o problemas</string>
+    <!-- Tamaño de fuente -->
+    <string name="very_small">Muy pequeño</string>
+    <string name="medium_small">Mediano pequeño</string>
+    <string name="small">Pequeño</string>
+    <string name="medium">Mediano</string>
+    <string name="large">Grande</string>
+    <string name="huge">Enorme</string>
+    <string name="follow_system">Seguir sistema</string>
+    <string name="light">Claro</string>
+    <string name="dark">Oscuro</string>
+    <string name="permission_denied">Permiso denegado</string>
+    <string name="open_settings">Abrir configuración</string>
+    <string name="no_application_found">Aplicación no encontrada</string>
+    <string name="user_cancelled_the_operation">Activa las notificaciones en configuración para los recordatorios</string>
+    <string name="downloading_start">Descarga iniciada</string>
+    <string name="update_failed">Actualización fallida</string>
+    <string name="restart">Reiniciar</string>
+    <string name="new_app_ready">Nueva versión disponible</string>
+    <string name="task_selected" formatted="false">%d/%d seleccionados</string>
+    <string name="or">O</string>
+    <string name="select_task">Seleccionar tarea</string>
+    <string name="active">Activo</string>
+    <string name="done">Hecho</string>
+    <string name="home">Inicio</string>
+    <string name="personal">Personal</string>
+    <string name="school">Escuela</string>
+    <string name="work">Trabajo</string>
+    <string name="other">Otro</string>
+    <string name="back">Atrás</string>
+    <string name="feedback_from_app">Comentarios de %s, %s</string>
+    <string name="add_task_or_subtask">Agregar nueva tarea o subtarea</string>
+    <string name="made_in_india" translatable="false">Hecho con ❤️ en India \uD83C\uDDEE\uD83C\uDDF3</string>
+
+    <string name="percentage" translatable="false">%d %%</string>
+
+    <!-- Tipo de orden -->
+    <string name="name">Nombre ⬇</string>
+    <string name="name_desc">Nombre ⬆</string>
+    <string name="date">Fecha ⬇</string>
+    <string name="date_desc">Fecha ⬆</string>
+    <string name="category">Categoría ⬇</string>
+    <string name="category_desc">Categoría ⬆</string>
+    <string name="start_date">Fecha de inicio</string>
+    <string name="end_date">Fecha de fin</string>
+    <string name="select_project_end_date">Seleccionar fin de proyecto</string>
+    <string name="select_project_start_date">Seleccionar inicio de proyecto</string>
+    <string name="no_notification">No hay notificaciones aún</string>
+    <string name="notifications">Notificaciones</string>
+    <string name="sort_by_old_to_new">Antiguo a nuevo</string>
+    <string name="pending">Tareas pendientes <b>%d</b></string>
+    <string name="completed">Tareas completadas <b>%d</b></string>
+
+    <string name="overview">Resumen</string>
+    <string name="good_morning">Hola</string>
+    <string name="notification_daily_desc">Tus tareas están pendientes, ¡complétalas pronto!</string>
+    <string name="show_voice_to_add_task_option">Mostrar opción de voz para agregar tarea</string>
+    <string name="task_not_completed_yet">La tarea no ha sido completada aún</string>
+    <string name="general">General</string>
+    <string name="category_txt">Categoría</string>
+    <string name="paste">Pegar</string>
+    <string name="delete_all_notifications">Eliminar todas las notificaciones</string>
+    <string name="confirm_notification_msg">¿Deseas eliminar todas las notificaciones?</string>
+    <string name="sort_expand_collapse_button">Botón de ordenar expandir/colapsar</string>
+    <string name="layout_view_change_button">Botón de vista de cambio de diseño</string>
+    <string name="show_copy">Mostrar icono de copiar en cada tarea</string>
+    <string name="visit_github">Visitar GitHub</string>
+    <string name="privacy_policy">Política de privacidad</string>
+    <string name="portfolio" translatable="false">https://zaap.bio/KaushalVasava</string>
+    <string name="github_link" translatable="false">https://github.com/KaushalVasava</string>
+    <string name="privacy_policy_link" translatable="false">https://doc-hosting.flycricket.io/tasks-to-do-list-reminders/a4486a8e-2c2b-4ae8-8ade-59c845a8276e/privacy</string>
+
+    <string name="prompt_info_title">Autenticación de App</string>
+    <string name="prompt_info_subtitle">Iniciar sesión con huella digital</string>
+    <string name="app_lock">Bloqueo de app</string>
+    <string name="restore_data">Restaurar datos</string>
+    <string name="backup_data">Respaldar datos</string>
+    <string name="security_and_data">Seguridad y Datos</string>
+    <string name="follow_instagram">Sígueme en Instagram</string>
+    <string name="donate">Apóyame</string>
+    <string name="donate_me_desc">Si te gusta mi app y quieres apoyarme, considera donar.</string>
+</resources>
